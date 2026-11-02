@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sheffieldclearouts.co.uk/sitemap.xml
